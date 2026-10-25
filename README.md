@@ -38,7 +38,6 @@ Here's a walkthrough of the implemented required features:
 
 <div>
     <a href="https://www.loom.com/share/6bea5e801aaf4630bc5ddff51ad708c8">
-      <p>multiverse_explorer_v2 - 25 October 2026 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/6bea5e801aaf4630bc5ddff51ad708c8">
       <img style="max-width:300px;" src="https://www.loom.com/v1/videos/6bea5e801aaf4630bc5ddff51ad708c8/thumbnail.gif">
